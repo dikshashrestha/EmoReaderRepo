@@ -1,0 +1,19 @@
+---
+title: "Analysis of Text Data on Customer's Review of Mobile Electronics"
+output: html_document
+date: "2022-11-08"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Aim 1: Pre-processing the data using term frequency and inverse document frequency and build R package for converting words into emoticons. ##
+
+## Aim2: Classifying the words that are a good marker of the sentiments using a correlations. ##
+
+
+
+
+
+
